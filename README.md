@@ -31,4 +31,3 @@ I have considered looking into adding multiple pages, hosting it on a free web s
 
 # Sources:
 Full tutorial from https://ibaslogic.com/deploying-react-app-to-github-pages/ was extremely helpful.
-
